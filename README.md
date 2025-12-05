@@ -4,4 +4,4 @@ This is a demo for Git & Github class.
 Shraddha Khapara
 
 # Student
-Aniket Verma
+Raju Kashyap
